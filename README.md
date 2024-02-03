@@ -52,7 +52,7 @@ h3
 
 ## Author
 
-- Website - [R.Jerusha preethi raj](https://www.QR-CODE component.com) (file:///home/student/Documents/WEB/qr-code-component-main/index.html)
+- Website - [R.Jerusha preethi raj](https://github.com/Jerushapreethiraj/QR-CODE-component/blob/main/index.html)
 - Frontend Mentor - [@Jerushapreethiraj](https://www.frontendmentor.io/profile/Jerushapreethiraj)
 
 
