@@ -19,6 +19,7 @@ This is the project of developing a QR CODE component. Here, I have used HTML an
 ### Links
 
 - Solution URL: (https://github.com/Jerushapreethiraj/QR-CODE-component/blob/main/index.html)
+- Live site URL: (https://jerushapreethiraj.github.io/QR-CODE-component)
 
 ## My process
 
